@@ -145,7 +145,6 @@ body {
     top:20%;
     left: 15%;
     text-align: left;
-    font-size: 5vw;
 }
 .two-bottom{
     width: 50%;
@@ -266,4 +265,50 @@ body {
 }
 .three-right-right.right4{
     top:70%;
+}
+.fout-contaion{
+    width: 80%;
+    position: absolute;
+    top:65%;
+    left: 10%;
+}
+.four-Map{
+    position: absolute;
+    top:20%;
+    left:15%;
+}
+.fives-top{
+    width:70%;
+    position: absolute;
+    top:20%;
+    left: 15%;
+}
+.fives-top input{
+    width: 80%;
+    height:35px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    outline:none;
+    margin-top:4%;
+}
+button{
+    width: 80%;
+    height:40px;
+    background:orange;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    outline:none;
+    margin-top:4%;
+}
+.fives-bottom{
+    width: 80%;
+    position: absolute;
+    top:63%;
+    left: 10%;
+}
+.span{
+    position: absolute;
+    top:36%;
+    left: 23%;
+    color: red;
 }
